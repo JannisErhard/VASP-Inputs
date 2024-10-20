@@ -1,3 +1,4 @@
+L
 SYSTEM = CoO Bulk Cubic Fm3m
 GGA = PE
 ISTART = 0  # Start a new calculation
