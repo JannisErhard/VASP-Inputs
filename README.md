@@ -39,6 +39,10 @@ If the substrate  makes a capacitor of the vacuum, then this can be seen in the 
 In deed, a massive dipole field needs to be compenasted of 0.5 a.u.. The surface hatree potential of the substrate is much lower than the potential of the 
 "bulk" end (the end of the cell, also pointed towards a vacuum, but atoms are fixed).
 
+![Colors show Charges, the acis group behaves as expected](https://github.com/JannisErhard/VASP-Inputs/blob/main/Images/potential.jpeg.png?raw=true)
+
+An Image of the Vacuu  Potential
+
 #### Test 2.b  Partial Charges in Molecule
 
 For the upright molecule one would find partial charges, which are asummetrically distributed.
