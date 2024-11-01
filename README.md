@@ -41,7 +41,7 @@ In deed, a massive dipole field needs to be compenasted of 0.5 a.u.. The surface
 
 ![Colors show Charges, the acis group behaves as expected](https://github.com/JannisErhard/VASP-Inputs/blob/main/Images/potential.jpeg.png?raw=true)
 
-An Image of the Vacuu  Potential
+An Image of the Vacuum  Potential, it is clearly tilted.
 
 #### Test 2.b  Partial Charges in Molecule
 
